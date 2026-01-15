@@ -45,7 +45,8 @@ The Power BI dashboard provides:
 Key performance indicators (KPIs)
 Trend analysis and comparisons
 Interactive slicers for user-driven insights
-><img width="1088" height="591" alt="image" src="https://github.com/user-attachments/assets/b9004b13-3590-4933-85f1-9c63804d075f" />
+<img width="1163" height="636" alt="image" src="https://github.com/user-attachments/assets/3c112af3-5780-4a9b-90dc-e8b32c2bdaea" />
+
 
 
 
